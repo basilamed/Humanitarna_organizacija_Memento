@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Domaci3Memento/1.0.0": {
+        "runtime": {
+          "Domaci3Memento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Domaci3Memento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

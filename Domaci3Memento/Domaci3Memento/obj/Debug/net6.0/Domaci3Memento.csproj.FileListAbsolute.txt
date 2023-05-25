@@ -1,0 +1,30 @@
+C:\Users\Muna\Desktop\basila\treca godina\drugi semestar\informacioni sistemi\Domaci3Memento\Domaci3Memento\bin\Debug\net6.0\Domaci3Memento.exe
+C:\Users\Muna\Desktop\basila\treca godina\drugi semestar\informacioni sistemi\Domaci3Memento\Domaci3Memento\bin\Debug\net6.0\Domaci3Memento.deps.json
+C:\Users\Muna\Desktop\basila\treca godina\drugi semestar\informacioni sistemi\Domaci3Memento\Domaci3Memento\bin\Debug\net6.0\Domaci3Memento.runtimeconfig.json
+C:\Users\Muna\Desktop\basila\treca godina\drugi semestar\informacioni sistemi\Domaci3Memento\Domaci3Memento\bin\Debug\net6.0\Domaci3Memento.dll
+C:\Users\Muna\Desktop\basila\treca godina\drugi semestar\informacioni sistemi\Domaci3Memento\Domaci3Memento\bin\Debug\net6.0\Domaci3Memento.pdb
+C:\Users\Muna\Desktop\basila\treca godina\drugi semestar\informacioni sistemi\Domaci3Memento\Domaci3Memento\obj\Debug\net6.0\Domaci3Memento.csproj.AssemblyReference.cache
+C:\Users\Muna\Desktop\basila\treca godina\drugi semestar\informacioni sistemi\Domaci3Memento\Domaci3Memento\obj\Debug\net6.0\Domaci3Memento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muna\Desktop\basila\treca godina\drugi semestar\informacioni sistemi\Domaci3Memento\Domaci3Memento\obj\Debug\net6.0\Domaci3Memento.AssemblyInfoInputs.cache
+C:\Users\Muna\Desktop\basila\treca godina\drugi semestar\informacioni sistemi\Domaci3Memento\Domaci3Memento\obj\Debug\net6.0\Domaci3Memento.AssemblyInfo.cs
+C:\Users\Muna\Desktop\basila\treca godina\drugi semestar\informacioni sistemi\Domaci3Memento\Domaci3Memento\obj\Debug\net6.0\Domaci3Memento.csproj.CoreCompileInputs.cache
+C:\Users\Muna\Desktop\basila\treca godina\drugi semestar\informacioni sistemi\Domaci3Memento\Domaci3Memento\obj\Debug\net6.0\Domaci3Memento.dll
+C:\Users\Muna\Desktop\basila\treca godina\drugi semestar\informacioni sistemi\Domaci3Memento\Domaci3Memento\obj\Debug\net6.0\refint\Domaci3Memento.dll
+C:\Users\Muna\Desktop\basila\treca godina\drugi semestar\informacioni sistemi\Domaci3Memento\Domaci3Memento\obj\Debug\net6.0\Domaci3Memento.pdb
+C:\Users\Muna\Desktop\basila\treca godina\drugi semestar\informacioni sistemi\Domaci3Memento\Domaci3Memento\obj\Debug\net6.0\Domaci3Memento.genruntimeconfig.cache
+C:\Users\Muna\Desktop\basila\treca godina\drugi semestar\informacioni sistemi\Domaci3Memento\Domaci3Memento\obj\Debug\net6.0\ref\Domaci3Memento.dll
+C:\Users\Muna\Desktop\Humanitarna_organizacija_Memento\Domaci3Memento\Domaci3Memento\bin\Debug\net6.0\Domaci3Memento.exe
+C:\Users\Muna\Desktop\Humanitarna_organizacija_Memento\Domaci3Memento\Domaci3Memento\bin\Debug\net6.0\Domaci3Memento.deps.json
+C:\Users\Muna\Desktop\Humanitarna_organizacija_Memento\Domaci3Memento\Domaci3Memento\bin\Debug\net6.0\Domaci3Memento.runtimeconfig.json
+C:\Users\Muna\Desktop\Humanitarna_organizacija_Memento\Domaci3Memento\Domaci3Memento\bin\Debug\net6.0\Domaci3Memento.dll
+C:\Users\Muna\Desktop\Humanitarna_organizacija_Memento\Domaci3Memento\Domaci3Memento\bin\Debug\net6.0\Domaci3Memento.pdb
+C:\Users\Muna\Desktop\Humanitarna_organizacija_Memento\Domaci3Memento\Domaci3Memento\obj\Debug\net6.0\Domaci3Memento.csproj.AssemblyReference.cache
+C:\Users\Muna\Desktop\Humanitarna_organizacija_Memento\Domaci3Memento\Domaci3Memento\obj\Debug\net6.0\Domaci3Memento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muna\Desktop\Humanitarna_organizacija_Memento\Domaci3Memento\Domaci3Memento\obj\Debug\net6.0\Domaci3Memento.AssemblyInfoInputs.cache
+C:\Users\Muna\Desktop\Humanitarna_organizacija_Memento\Domaci3Memento\Domaci3Memento\obj\Debug\net6.0\Domaci3Memento.AssemblyInfo.cs
+C:\Users\Muna\Desktop\Humanitarna_organizacija_Memento\Domaci3Memento\Domaci3Memento\obj\Debug\net6.0\Domaci3Memento.csproj.CoreCompileInputs.cache
+C:\Users\Muna\Desktop\Humanitarna_organizacija_Memento\Domaci3Memento\Domaci3Memento\obj\Debug\net6.0\Domaci3Memento.dll
+C:\Users\Muna\Desktop\Humanitarna_organizacija_Memento\Domaci3Memento\Domaci3Memento\obj\Debug\net6.0\refint\Domaci3Memento.dll
+C:\Users\Muna\Desktop\Humanitarna_organizacija_Memento\Domaci3Memento\Domaci3Memento\obj\Debug\net6.0\Domaci3Memento.pdb
+C:\Users\Muna\Desktop\Humanitarna_organizacija_Memento\Domaci3Memento\Domaci3Memento\obj\Debug\net6.0\Domaci3Memento.genruntimeconfig.cache
+C:\Users\Muna\Desktop\Humanitarna_organizacija_Memento\Domaci3Memento\Domaci3Memento\obj\Debug\net6.0\ref\Domaci3Memento.dll
